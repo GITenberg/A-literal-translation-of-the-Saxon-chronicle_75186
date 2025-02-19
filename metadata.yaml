@@ -1,0 +1,33 @@
+_repo: A-literal-translation-of-the-Saxon-chronicle_75186
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gurney, Anna
+    birthdate: 1795
+    deathdate: 1857
+    gutenberg_agent_id: '57865'
+    url: http://www.gutenberg.org/2009/agents/57865
+    wikipedia: https://en.wikipedia.org/wiki/Anna_Gurney
+description: ''
+gutenberg_issued: '2025-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75186'
+language: en
+pgterms:marc904: https://archive.org/details/literaltranslati00gurn/page/n7/mode/2up
+pgterms:marc905: 20220617220616anonymous
+pgterms:marc906: '1819'
+pgterms:marc907: GB
+production_note: Carla Foust, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bJohn and Arthur Arch, $c1819.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Sources'
+- !lcc 'DA'
+- GITenberg
+title: A literal translation of the Saxon chronicle
+url: http://www.gutenberg.org/ebooks/75186
